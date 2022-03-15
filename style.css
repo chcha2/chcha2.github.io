@@ -1,3 +1,26 @@
+@font-face {
+  font-family: 'norwester';
+  font-style: normal;
+  font-weight: normal;
+  src: local('norwester'), url('font/norwester.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: normal;
+  src: local('aileron'), url('font/Aileron-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: normal;
+  src: local('popins'), url('font/Poppins-Bold.otf') format('opentype');
+}
+
+
+
+
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
